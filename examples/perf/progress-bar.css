@@ -1,0 +1,11 @@
+.bar {
+  height: 100px;
+  border: 1px solid blue;
+  overflow: hidden;
+}
+.tick {
+  float: left;
+  height: 100%;
+  width: .4px;
+  background-color: lightblue;
+}
