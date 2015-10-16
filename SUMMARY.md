@@ -1,4 +1,4 @@
-# Agenda
+# Summary
 
 * [Overview](overview/README.md)
     * [how react see's your code](overview/how-react-sees-your-code.md)
