@@ -1,4 +1,4 @@
-# how react see's your code
+# how react will see your code
 
 React applications are React Component compositions. Much like HTML, React is hierarchical and expressed easily as a tree.
 

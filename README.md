@@ -4,10 +4,10 @@ In order to build well architected React components we need to understand how da
 
 This is modern guide to understanding how data flows through React applications and to structure your React components for reusability with any FLUX framework or next-gen pattern.
 
-* examine how React see's our components
-* look at how data flows through our React application
-* look at modern best practices in React
-* look at the real world
+* Investigate how react will see our components
+* Examine how data flows through a React application
+* What are the current best practices for React data propagation
+* What patterns are in the wild
 
 Assumptions:
 * _All examples assume ES6 and React 14_

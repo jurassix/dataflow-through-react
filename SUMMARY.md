@@ -1,7 +1,7 @@
 # Summary
 
 * [Overview](overview/README.md)
-    * [how react see's your code](overview/how-react-sees-your-code.md)
+    * [how react will see your code](overview/how-react-will-see-your-code.md)
     * [how data flows through react](overview/how-data-flows-through-react.md)
     * [modern techniques for building react components](overview/modern-thinking.md)
 
@@ -28,7 +28,6 @@
 
 * [In practice](in-practice/README.md)
     * [redux/todomvc refactor](in-practice/refactor.md)
-    * [recompose](in-practice/recompose.md)
 
 * [Demo](demo/README.md)
     * [results](demo/results.md)
